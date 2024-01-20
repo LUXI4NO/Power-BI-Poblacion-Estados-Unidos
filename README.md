@@ -1,10 +1,21 @@
 # Proyecto de Análisis Demográfico utilizando Power BI
 
-Este proyecto se enfoca en el análisis demográfico, utilizando datos detallados sobre la población de estados en los Estados Unidos. La herramienta principal utilizada para este análisis es Power BI. Los conjuntos de datos proporcionan una visión exhaustiva de la población a nivel estatal y a lo largo de varios años.
+Este proyecto se centra en el análisis demográfico, utilizando datos detallados sobre la población de estados en los Estados Unidos. La herramienta principal empleada para este análisis es Power BI. Los conjuntos de datos proporcionan una visión exhaustiva de la población a nivel estatal y a lo largo de varios años.
 
 [![Power BI Version](https://img.shields.io/badge/Power%20BI-2.9%2B-blue?style=for-the-badge&logo=powerbi&logoColor=white)](https://powerbi.microsoft.com/)
 [![CSV Compatible](https://img.shields.io/badge/CSV-Compatible-brightgreen?style=for-the-badge&logo=csv&logoColor=white)](https://en.wikipedia.org/wiki/Comma-separated_values)
+## Índice
 
+1. [Visualización del Dashboard](#visualización-del-dashboard)
+2. [Conjunto de Datos 1: Datos Demográficos por Estado](#conjunto-de-datos-1-datos-demográficos-por-estado)
+3. [Conjunto de Datos 2: Datos Temporales de Población](#conjunto-de-datos-2-datos-temporales-de-población)
+4. [Visualizaciones en Power BI](#visualizaciones-en-power-bi)
+   - [Mapa Interactivo de Estados Unidos con Datos de Población](#1-mapa-interactivo-de-estados-unidos-con-datos-de-población)
+   - [Gráficos de Barras: Distribución de Géneros por Estados](#2-gráficos-de-barras-distribución-de-géneros-por-estados)
+   - [Tabla Detallada de Información Demográfica](#3-tabla-detallada-de-información-demográfica)
+   - [Gráfico Lineal del Crecimiento Poblacional (2000-2022)](#4-gráfico-lineal-del-crecimiento-poblacional-2000-2022)
+   - [Gráfico Circular del Porcentaje de Mujeres y Hombres](#5-gráfico-circular-del-porcentaje-de-mujeres-y-hombres)
+5. [Contacto](#contacto)
 ## Visualización del Dashboard
 
 ![Ejemplo de Visualización](https://github.com/LUXI4NO/Power-BI-Poblacion-Estados-Unidos/assets/140111840/4cac638a-1245-490c-aeaa-635ae1364abd)
