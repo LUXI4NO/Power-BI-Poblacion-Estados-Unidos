@@ -4,6 +4,8 @@ Este proyecto se centra en el análisis demográfico, utilizando datos detallado
 
 [![Power BI Version](https://img.shields.io/badge/Power%20BI-2.9%2B-blue?style=for-the-badge&logo=powerbi&logoColor=white)](https://powerbi.microsoft.com/)
 [![CSV Compatible](https://img.shields.io/badge/CSV-Compatible-brightgreen?style=for-the-badge&logo=csv&logoColor=white)](https://en.wikipedia.org/wiki/Comma-separated_values)
+[![Power BI Dashboard](https://img.shields.io/badge/Power%20BI-View%20Dashboard-blue?style=for-the-badge&logo=powerbi&logoColor=white)](https://app.powerbi.com/view?r=eyJrIjoiNDQ3MmJlZjItN2YxMS00Y2I3LThlMWMtNWUzMGNjNmY3NDU3IiwidCI6ImM0Y2FmMDBmLTM5YmQtNDA4OC04YjE2LWYzMmZhMTI1YWJiNSIsImMiOjR9)
+
 ## Índice
 
 1. [Visualización del Dashboard](#visualización-del-dashboard)
